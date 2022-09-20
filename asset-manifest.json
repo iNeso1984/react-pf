@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-pf/static/css/main.58f5fb4b.css",
-    "main.js": "/react-pf/static/js/main.015c0235.js",
+    "main.css": "/react-pf/static/css/main.4f57c954.css",
+    "main.js": "/react-pf/static/js/main.df6b35c2.js",
     "static/js/787.128fc6e9.chunk.js": "/react-pf/static/js/787.128fc6e9.chunk.js",
     "static/media/me.jpg": "/react-pf/static/media/me.24ed5a5612ad7530036e.jpg",
     "static/media/oceanView1.jpg": "/react-pf/static/media/oceanView1.e2419d9223601293dfc0.jpg",
     "static/media/oceanView2.jpg": "/react-pf/static/media/oceanView2.dba8dc93dfd9be3986cd.jpg",
     "index.html": "/react-pf/index.html",
-    "main.58f5fb4b.css.map": "/react-pf/static/css/main.58f5fb4b.css.map",
-    "main.015c0235.js.map": "/react-pf/static/js/main.015c0235.js.map",
+    "main.4f57c954.css.map": "/react-pf/static/css/main.4f57c954.css.map",
+    "main.df6b35c2.js.map": "/react-pf/static/js/main.df6b35c2.js.map",
     "787.128fc6e9.chunk.js.map": "/react-pf/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58f5fb4b.css",
-    "static/js/main.015c0235.js"
+    "static/css/main.4f57c954.css",
+    "static/js/main.df6b35c2.js"
   ]
 }
