@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-pf/static/css/main.4f57c954.css",
-    "main.js": "/react-pf/static/js/main.df6b35c2.js",
+    "main.css": "/react-pf/static/css/main.0b06819c.css",
+    "main.js": "/react-pf/static/js/main.17f063af.js",
     "static/js/787.128fc6e9.chunk.js": "/react-pf/static/js/787.128fc6e9.chunk.js",
     "static/media/me.jpg": "/react-pf/static/media/me.24ed5a5612ad7530036e.jpg",
     "static/media/oceanView1.jpg": "/react-pf/static/media/oceanView1.e2419d9223601293dfc0.jpg",
     "static/media/oceanView2.jpg": "/react-pf/static/media/oceanView2.dba8dc93dfd9be3986cd.jpg",
+    "static/media/graffitti.png": "/react-pf/static/media/graffitti.b032d3073165a5423512.png",
     "index.html": "/react-pf/index.html",
-    "main.4f57c954.css.map": "/react-pf/static/css/main.4f57c954.css.map",
-    "main.df6b35c2.js.map": "/react-pf/static/js/main.df6b35c2.js.map",
+    "main.0b06819c.css.map": "/react-pf/static/css/main.0b06819c.css.map",
+    "main.17f063af.js.map": "/react-pf/static/js/main.17f063af.js.map",
     "787.128fc6e9.chunk.js.map": "/react-pf/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f57c954.css",
-    "static/js/main.df6b35c2.js"
+    "static/css/main.0b06819c.css",
+    "static/js/main.17f063af.js"
   ]
 }
